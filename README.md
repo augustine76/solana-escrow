@@ -5,8 +5,6 @@ Reference implementation for the guide https://paulx.dev/blog/2021/01/14/program
 # Projecet Structure:
 ![](https://i.imgur.com/mLbjWlU.gif)
 
-Project Structure:-
-
 1. The Escrow Contract needs two accounts, Alice and Bob.
 2. Alice starts the Escrow process by initiating the Trade.
 3. Bob completes the Trade by fulfilling the amount of Tokens expected by Alice.
